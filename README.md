@@ -12,6 +12,21 @@
 
 ---
 
+## 👨‍💻 SOBRE MIM
+
+<div align="center">
+
+```
+🌟 Engenheiro de IA apaixonado por inovação e tecnologias emergentes
+🎯 Especializado em Machine Learning, Deep Learning e Arquiteturas Neurais
+🚀 Transformando ideias em soluções de IA de alto impacto
+💡 Sempre explorando a fronteira entre o possível e o impossível
+```
+
+</div>
+
+---
+
 ## 🚀 CENTRO DE CONTROLE DA MISSÃO
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -44,6 +59,67 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fellipesaraiva88&bg_color=0d1117&color=00d9ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true&custom_title=Gráfico%20de%20Atividade%20Neural%20SARAIVA.AI" alt="Activity Graph" />
+</div>
+
+---
+
+## 💼 PROJETOS EM DESTAQUE
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **PROJETO CONSTELLATION**
+[![Repo](https://img.shields.io/badge/Repo-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fellipesaraiva88)
+```
+🔸 Sistema de Recomendação IA
+🔸 Processamento de Linguagem Natural
+🔸 Análise de Sentimentos em Tempo Real
+🔸 Deploy com Docker/Kubernetes
+```
+
+</td>
+<td width="50%">
+
+### 🌟 **PROJETO NEBULA**
+[![Repo](https://img.shields.io/badge/Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fellipesaraiva88)
+```
+🔸 Computer Vision com PyTorch
+🔸 Detecção de Objetos em Tempo Real
+🔸 Transfer Learning Avançado
+🔸 API REST com FastAPI
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 **PROJETO QUANTUM**
+[![Repo](https://img.shields.io/badge/Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fellipesaraiva88)
+```
+🔸 Algoritmos de IA Evolutiva
+🔸 Otimização de Hiperparâmetros
+🔸 AutoML Pipeline
+🔸 MLOps com CI/CD
+```
+
+</td>
+<td width="50%">
+
+### ⚡ **PROJETO PHOENIX**
+[![Repo](https://img.shields.io/badge/Repo-FFD93D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fellipesaraiva88)
+```
+🔸 Chatbot Inteligente Multi-idioma
+🔸 Integração com LLMs
+🔸 RAG (Retrieval Augmented Generation)
+🔸 Interface Web Interativa
+```
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -165,10 +241,93 @@ fn supremacia_quantica() -> Futuro {
 
 ---
 
+## 🎓 CERTIFICAÇÕES & CONQUISTAS
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+🏆
+### **Machine Learning**
+AWS Certified ML
+
+</td>
+<td align="center" width="25%">
+
+🥇
+### **Deep Learning**
+TensorFlow Developer
+
+</td>
+<td align="center" width="25%">
+
+🎖️
+### **Cloud Computing**
+GCP Professional
+
+</td>
+<td align="center" width="25%">
+
+⭐
+### **Data Science**
+Kaggle Expert
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🌈 ECOSSISTEMA TECNOLÓGICO
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,javascript,react,nodejs,docker,kubernetes,aws,gcp,azure,git,linux,vim,bash,rust,go,solidity,postgres,mongodb,redis,elasticsearch&perline=11&theme=dark" />
+</div>
+
+---
+
+## 📊 SKILLS & COMPETÊNCIAS
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 **INTELIGÊNCIA ARTIFICIAL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ **DESENVOLVIMENTO**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ **CLOUD & DEVOPS**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -234,10 +393,40 @@ fn supremacia_quantica() -> Futuro {
 <a href="mailto:saraiva.ai@futuro.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=58a6ff">
 </a>
+<a href="https://twitter.com/saraiva_ai">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=FFD93D">
+</a>
+<a href="https://dev.to/saraiva">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0d1117&color=00d9ff">
+</a>
+<a href="https://medium.com/@saraiva">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117&color=ff6b6b">
+</a>
 </p>
 
 ### 🎮 **STATUS EM TEMPO REAL**
 <img src="https://komarev.com/ghpvc/?username=fellipesaraiva88&label=Conexões%20Neurais&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
+
+### 📧 **DISPONÍVEL PARA**
+```
+💼 Consultorias em IA e Machine Learning
+🤝 Colaborações em Projetos Open Source
+🎤 Palestras e Workshops sobre IA
+📚 Mentoria em Tecnologias Emergentes
+```
+
+</div>
+
+---
+
+## 🤝 CONTRIBUIÇÕES OPEN SOURCE
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fellipesaraiva88&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b6b&fire=ff6b6b&currStreakLabel=00d9ff)](https://github.com/fellipesaraiva88)
+
+### 🎯 **CONTRIBUIÇÕES NO ANO**
+<img src="https://ghchart.rshah.org/00d9ff/fellipesaraiva88" alt="GitHub Contributions Chart" width="100%" />
 
 </div>
 
@@ -266,10 +455,29 @@ fn supremacia_quantica() -> Futuro {
  criando as soluções de amanhã com a paixão de hoje."
 ```
 
+### 💡 **FILOSOFIA DE TRABALHO**
+```
+🎯 Código Limpo • Arquitetura Escalável • Inovação Contínua
+```
+
 **🌟 Lembre-se: O futuro não está chegando... ele já está aqui! 🌟**
+
+### 🤝 **VAMOS CONSTRUIR ALGO INCRÍVEL JUNTOS!**
+[![Disponível para Colaborações](https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117&color=00d9ff)](https://github.com/fellipesaraiva88)
 
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios! ⭐**
+
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff6b6b.svg?style=flat-square)](https://github.com/fellipesaraiva88)
+[![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-00d9ff.svg?style=flat-square)](https://github.com/fellipesaraiva88)
+
 </div>
